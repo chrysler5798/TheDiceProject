@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TheDiceProject</string>
+    <string name="de6">6 Sided Dice</string>
+    <string name="de20">20 Sided Dice</string>
+    <string name="rollthedice">Roll the Dice</string>
+    <string name="de">%d Sided Dice</string>
+</resources>
