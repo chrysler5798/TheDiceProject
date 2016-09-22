@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">TheDiceProject</string>
+    <string name="de6">Dé à 6 côtés</string>
+    <string name="de20">Dé à 20 côtés</string>
+    <string name="rollthedice">Lancer le Dé</string>
+    <string name="de">Dé à %d côtés</string>
+</resources>
